@@ -7,4 +7,4 @@
 - reseau (personnes)
 - reseau job
 - peut avoir 1 reseau job (chercher des trucs sur avoir un reseau job)
-- 1 langage programmation avec html 
+- langage programaation html
